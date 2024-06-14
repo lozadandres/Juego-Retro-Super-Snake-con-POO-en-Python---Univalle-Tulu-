@@ -6,6 +6,6 @@ El proyecto "Retro Super Snake" es una implementación moderna del clásico jueg
 Objetivo del Juego
 En Retro Super Snake, tu objetivo es guiar a una serpiente hambrienta a través de un campo lleno de deliciosos manjares mientras evitas chocar con las paredes, su propio cuerpo o cualquier obstáculo que se interponga en su camino. Controla la dirección de la serpiente y asegúrate de que pueda comer tanto como sea posible. ¡Mientras más coma, más grande y más puntaje obtendrás! Este desafío simple pero adictivo te mantendrá entretenido mientras tratas de superar tus propias marcas y llegar más lejos en cada partida.
 
-
+#Diagrama UML de clases 
 ![uml - Page 3 (2)](https://github.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulu-/assets/172821184/da1f5d12-91f7-4943-b117-d5698c333772)
 
