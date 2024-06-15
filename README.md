@@ -9,3 +9,5 @@ En Retro Super Snake, tu objetivo es guiar a una serpiente hambrienta a través 
 #Diagrama UML de clases 
 ![uml - Page 3 (2)](https://github.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulu-/assets/172821184/da1f5d12-91f7-4943-b117-d5698c333772)
 
+Link de video:
+https://youtu.be/J3YhwaTR3kg
