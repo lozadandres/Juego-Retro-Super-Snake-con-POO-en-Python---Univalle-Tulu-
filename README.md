@@ -1,4 +1,4 @@
-# Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulu-
+# Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulua-
 ![WhatsApp Image 2024-05-30 at 19 16 09](https://github.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulu-/assets/172821184/8c91a017-07e7-4b06-80ed-949593fe2820)
 
 El proyecto "Retro Super Snake" es una implementación moderna del clásico juego de la serpiente utilizando Pygame, una biblioteca para el desarrollo de videojuegos en Python. El juego incluye características adicionales como alimentos especiales, obstáculos y un sistema de puntuación, además de emplear principios de programación orientada a objetos como la herencia y el polimorfismo. La implementación incluye características visuales atractivas y mecánicas adicionales que enriquecen la experiencia del juego clásico. Este juego bien estructurado es una excelente demostración de las capacidades del uso de los conceptos de la POO en el desarrollo de videojuegos.
